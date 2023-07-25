@@ -1,0 +1,1 @@
+<h1>News</h1><?php /**PATH /var/www/html/example-app/resources/views/news.blade.php ENDPATH**/ ?>

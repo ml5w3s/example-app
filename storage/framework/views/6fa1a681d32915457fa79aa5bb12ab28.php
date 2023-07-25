@@ -1,0 +1,1 @@
+<h1>Empresa</h1><?php /**PATH /var/www/html/example-app/resources/views/empresa.blade.php ENDPATH**/ ?>
