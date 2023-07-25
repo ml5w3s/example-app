@@ -1,6 +1,6 @@
 @extends('site.layout')
 
-@section('title','Essa é a página Home')
+@section('title','Produtos')
 
 @section('conteudo')
 <div class="row container">
