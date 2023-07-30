@@ -15,7 +15,7 @@ class ProdutoController extends Controller
         // return "index";
         $produtos = Produto::all();
         // return dd($produtos);
-        // $nome = "Versátil";
+        //nome = "versatil";
         // $idade = 15;
         // $html = '<h2>Cursos</h2>';
 
